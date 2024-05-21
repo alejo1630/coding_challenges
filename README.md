@@ -9,3 +9,5 @@ This repository contains several coding challenges in order to enhance programmi
 3. [Multiples 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
 4. [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
 5. [Blowing Birthday Candles](https://www.codewars.com/kata/6630da20f925eb3007c5a498)
+6. [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+7. [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
