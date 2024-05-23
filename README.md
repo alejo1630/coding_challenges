@@ -11,3 +11,4 @@ This repository contains several coding challenges in order to enhance programmi
 5. [Blowing Birthday Candles](https://www.codewars.com/kata/6630da20f925eb3007c5a498)
 6. [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 7. [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+8. [Two Sum](https://leetcode.com/problems/two-sum/description/)
