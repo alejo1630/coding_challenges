@@ -12,3 +12,5 @@ This repository contains several coding challenges in order to enhance programmi
 6. [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 7. [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 8. [Two Sum](https://leetcode.com/problems/two-sum/description/)
+9. [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+10. [Sum of Digits](https://www.codewars.com/kata/541c8630095125aba6000c00)
