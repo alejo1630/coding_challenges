@@ -14,3 +14,5 @@ This repository contains several coding challenges in order to enhance programmi
 8. [Two Sum](https://leetcode.com/problems/two-sum/description/)
 9. [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 10. [Sum of Digits](https://www.codewars.com/kata/541c8630095125aba6000c00)
+11. [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
+12. [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
