@@ -17,3 +17,4 @@ This repository contains several coding challenges in order to enhance programmi
 11. [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 12. [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 13. [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
+14. [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
