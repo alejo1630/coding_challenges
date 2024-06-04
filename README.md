@@ -18,3 +18,4 @@ This repository contains several coding challenges in order to enhance programmi
 12. [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 13. [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 14. [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
+15. [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
