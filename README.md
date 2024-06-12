@@ -19,3 +19,5 @@ This repository contains several coding challenges in order to enhance programmi
 13. [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 14. [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 15. [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
+16. [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+17. [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/python)
